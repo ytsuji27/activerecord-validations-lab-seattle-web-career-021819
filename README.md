@@ -4,9 +4,14 @@
 
 Add validations to these models such that...
 
+**Authors**:
+
 1. All authors have a name
 1. No two authors have the same name
 1. Author phone numbers are exactly ten digits
+
+**Posts**:
+
 1. All posts have a title
 1. Post content is at least 250 characters long
 1. Post summary is a maximum of 250 characters
