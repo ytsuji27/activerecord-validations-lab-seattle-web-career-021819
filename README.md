@@ -21,7 +21,6 @@ Add validations to these models such that...
    look up how to use it.
    [ar_validations]: http://guides.rubyonrails.org/active_record_validations.html
 
-
 # Custom Validations
 
 Finally, add a custom validator to `Post` that ensures the title is sufficiently
